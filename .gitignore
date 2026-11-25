@@ -1,0 +1,14 @@
+# Keil build output
+MDK-ARM/ELE3312_Project/
+*.o
+*.d
+*.axf
+*.crf
+*.lst
+*.map
+*.htm
+*.lnp
+*.dep
+*.bak
+*.uvguix.*
+Doc/
